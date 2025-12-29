@@ -24,10 +24,10 @@ Ce dépôt propose des supports de cours, résumés et annexes pour initier les 
 ## 📂 Contenu du Repository
 - **[html_cours.pdf](html_cours.pdf)** : Cours complet sur HTML
 - **[css_cours.pdf](css_cours.pdf)** : Cours complet sur CSS
-- **[HTML_Annexe.pdf](HTML_Annexe.pdf)** : Annexes et exercices HTML
-- **[CSS_Annexe.pdf](CSS_Annexe.pdf)** : Annexes et exercices CSS
-- **[Leçon1_Règle de style CSS.pdf](Leçon1_Règle de style CSS.pdf)** : Leçon détaillée sur les règles CSS
-- **[résumée compet](résumée compet)** : Résumé des compétences (à compléter ou mettre à jour)
+- **[HTML_Annexe.pdf](HTML_Annexe.pdf)** : Annexes  HTML
+- **[CSS_Annexe.pdf](CSS_Annexe.pdf)** : Annexes CSS
+- **[Leçon1_Règle de style CSS.pdf](Leçon1_Règle_de_style_CSS.pdf)** : Leçon détaillée sur les règles CSS
+- **[résumée compet](résumée_compet)** : Résumé des compétences (à compléter ou mettre à jour)
 - **[STI2024 (1).pdf](STI2024%20(1).pdf)** : Document supplémentaire (programme ou support 2024)
 - **[cours.md](cours.md)** : Liens vers les annexes et ressources
 
